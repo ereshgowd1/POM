@@ -1,0 +1,13 @@
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\bin\Debug\chromedriver.exe
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\bin\Debug\SeliniumFirst.exe.config
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\bin\Debug\SeliniumFirst.exe
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\bin\Debug\SeliniumFirst.pdb
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\bin\Debug\WebDriver.dll
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\bin\Debug\WebDriver.Support.dll
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\bin\Debug\WebDriver.xml
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\bin\Debug\WebDriver.Support.xml
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\obj\Debug\SeliniumFirst.csprojAssemblyReference.cache
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\obj\Debug\SeliniumFirst.csproj.CoreCompileInputs.cache
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\obj\Debug\SeliniumFirst.csproj.CopyComplete
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\obj\Debug\SeliniumFirst.exe
+C:\Users\Eresh\source\repos\SeliniumFirst\SeliniumFirst\obj\Debug\SeliniumFirst.pdb
